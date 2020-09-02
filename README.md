@@ -20,3 +20,5 @@
 | 6 | ft_irc |  |  | closed |
 |   | webser |  |  | closed |
 | 7 | ft_transcendence |  |  | closed |
+
+*Box text design by [365kim](https://github.com/365kim)*
