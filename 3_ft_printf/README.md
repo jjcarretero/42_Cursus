@@ -28,7 +28,7 @@ Manage all the following flags: ’# +’ (yes, one of them is a space)
 
 #### Extras:
 
-I also implemented out of the subject:
+I also implemented (not in subject):
  - Unicode characters, including emojis.
  - Octals (with flags).
  - G and E uppercase options.
