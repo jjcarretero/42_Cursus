@@ -6,12 +6,12 @@
 ## Common Circle
 | Circle | Project | Language | Topics | Date of Completion |
 |:---:|:---|:---:|:---|:---:|
-| 1 | [__Libft__](./1_libft) | C | `library`, `Makefile`, `linked list` | 2020. 07. 27. |
+| 1 | [__libft__](./1_libft) | C | `library`, `Makefile`, `linked list` | 2020. 07. 27. |
 | 2 | netwhat | - | `network`, `OSI protocols`, `TCP/IP` | 2020. 07. 30. |
 |   | [__get_next_line__](./2_get_next_line) | C | `static variable`, `file descriptor` | 2020. 08. 12. |
-|   | ft_printf | C | `variadic arguments`, `UTF-8`, `bitwise operation` | Working on it |
-| 3 | ft_server | - | `docker`, `immutable infrastructure`, `server` | closed |
-|   | cub3d | C | `Raycasting` | closed |
+|   | [__ft_printf__](./3_ft_printf) | C | `variadic arguments`, `UTF-8`, `bitwise operation` | 2020. 09. 23. |
+| 3 | ft_server | - | `docker`, `immutable infrastructure`, `server` | Working on it |
+|   | cub3d | C | `Raycasting` | Working on it |
 | 4 | libasm |  |  | closed |
 |   | minishell |  |  | closed |
 |   | ft_services |  |  | closed |
