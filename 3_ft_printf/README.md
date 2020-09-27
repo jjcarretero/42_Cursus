@@ -24,6 +24,8 @@ Manage one or more of the following flags: l ll h hh
 
 Manage all the following flags: ’# +’ (yes, one of them is a space)
 
+/----------------------------------------------------------------------------------------------------------------------------------/
+
 #### Extras:
 
 I also implemented out of the subject:
