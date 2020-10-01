@@ -20,13 +20,13 @@
 # include <math.h>
 
 /*
-** MACROS
+**	MACROS
 */
 
 # define PRINTF_FLAG "0123456789-.*# +hl"
 
 /*
-** Structs
+**	Structs
 */
 
 typedef struct		s_flags
@@ -60,7 +60,7 @@ typedef struct		s_block
 }					t_block;
 
 /*
-**Source Files
+**	Source Files
 */
 
 int					ft_printf(const char *format, ...);

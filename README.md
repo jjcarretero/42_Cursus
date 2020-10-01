@@ -6,12 +6,12 @@
 ## Common Circle
 | Circle | Project | Language | Topics | Date of Completion |
 |:---:|:---|:---:|:---|:---:|
-| 1 | [__libft__](./1_libft) | C | `library`, `Makefile`, `linked list` | 2020. 07. 27. |
-| 2 | netwhat | - | `network`, `OSI protocols`, `TCP/IP` | 2020. 07. 30. |
-|   | [__get_next_line__](./2_get_next_line) | C | `static variable`, `file descriptor` | 2020. 08. 12. |
-|   | [__ft_printf__](./3_ft_printf) | C | `variadic arguments`, `UTF-8`, `bitwise operation` | 2020. 09. 23. |
-| 3 | ft_server | - | `docker`, `immutable infrastructure`, `server` | Working on it |
-|   | cub3d | C | `Raycasting` | Working on it |
+| 1 | [__libft__](./1_libft) | C | `Library`, `Makefile`, `Linked list` | 2020. 07. 27. |
+| 2 | netwhat | - | `Network`, `OSI protocols`, `TCP/IP` | 2020. 07. 30. |
+|   | [__get_next_line__](./2_get_next_line) | C | `Static variable`, `File descriptor`, `Heap/Stack` | 2020. 08. 12. |
+|   | [__ft_printf__](./3_ft_printf) | C | `Variadic arguments`, `UTF-8`, `Bitwise`, `Structs` | 2020. 09. 23. |
+| 3 | ft_server | - | `Docker`, `Nginx`, `MySQL`, `Web server` | Working on it |
+|   | cub3d | C | `Raycasting`, `Graphics` | Working on it |
 | 4 | libasm |  |  | closed |
 |   | minishell |  |  | closed |
 |   | ft_services |  |  | closed |
@@ -20,5 +20,16 @@
 | 6 | ft_irc |  |  | closed |
 |   | webser |  |  | closed |
 | 7 | ft_transcendence |  |  | closed |
+
+## Exams
+| Circle | Exam | Topics | Date of Completion |
+|:---:|:---:|:---|:---:|
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 | [__Exam Rank 02__](./99_exams/2_exam_rank_02) | `hashmap`, `static variable`, `variadic arguments` | - |
+| 4 | Exam Rank 03 |  | - |
+| 5 | Exam Rank 04 |  | - |
+| 6 | Exam Rank 05 |  | - |
+| 7 | Exam Rank 06 |  | - |
 
 *Box text design by [365kim](https://github.com/365kim)*
