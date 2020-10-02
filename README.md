@@ -26,7 +26,7 @@
 |:---:|:---:|:---|:---:|
 | 1 |  |  |  |
 | 2 |  |  |  |
-| 3 | [__Exam Rank 02__](./99_exams/2_exam_rank_02) | `hashmap`, `static variable`, `variadic arguments` | - |
+| 3 | [__Exam Rank 02__](./99_exams/2_exam_rank_02) | `hashmap`, `static variable`, `variadic arguments` | 2020. 10. 02 |
 | 4 | Exam Rank 03 |  | - |
 | 5 | Exam Rank 04 |  | - |
 | 6 | Exam Rank 05 |  | - |
