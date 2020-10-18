@@ -10,7 +10,7 @@
 | 2 | netwhat | - | `Network`, `OSI protocols`, `TCP/IP` | 2020. 07. 30. |
 |   | [__get_next_line__](./2_get_next_line) | C | `Static variable`, `File descriptor`, `Heap/Stack` | 2020. 08. 12. |
 |   | [__ft_printf__](./3_ft_printf) | C | `Variadic arguments`, `UTF-8`, `Bitwise`, `Structs` | 2020. 09. 23. |
-| 3 | [__ft_server__](./4_ft_server) | - | `Docker`, `Nginx`, `MySQL`, `Web server` | 2020. 10. 16. |
+| 3 | [__ft_server__](./4_ft_server) | Shell | `Docker`, `Nginx`, `MySQL`, `Web server` | 2020. 10. 16. |
 |   | cub3d | C | `Raycasting`, `Graphics` | Working on it |
 | 4 | libasm |  |  | closed |
 |   | minishell |  |  | closed |
