@@ -10,13 +10,16 @@
 | 2 | netwhat | - | `Network`, `OSI protocols`, `TCP/IP` | 2020. 07. 30. |
 |   | [__get_next_line__](./2_get_next_line) | C | `Static variable`, `File descriptor`, `Heap/Stack` | 2020. 08. 12. |
 |   | [__ft_printf__](./3_ft_printf) | C | `Variadic arguments`, `UTF-8`, `Bitwise`, `Structs` | 2020. 09. 23. |
+|   | born2beRoot | Shell | `Virtualization`, `Debian`, `Bash-Script`, `Virtual Box` | 2021. 08. 26. |
 | 3 | [__ft_server__](./4_ft_server) | Shell | `Docker`, `Nginx`, `MySQL`, `Web server` | 2020. 10. 16. |
+|   | [__push_swap__](./5_push_swap) | C | `Algorithm`, `Battery Concept`, `Handling Elements`, `Sorting` | 2021. 10. 14. |
+|   | [__pipex__](./6_pipex) | C | `Unix Logic`, `Forks`, `Pipes`, `Processes` | 2021. 11. 09. |
+|   | [__so_long__](./7_so_long) | C | `Graphics`, `Applicative`, `2D`, `Video game` | Working on it  |
+| 4 | Philosophers |  |  | Working on it |
+|   | minishell |  |  | Working on it |
+| 5 | CPP Module 00-08 |  |  | closed |
 |   | cub3d | C | `Raycasting`, `Graphics` | Working on it |
-| 4 | libasm |  |  | closed |
-|   | minishell |  |  | closed |
-|   | ft_services |  |  | closed |
-| 5 | CPP Module 01-08 |  |  | closed |
-|   | Philosophers |  |  | closed |
+|   | NetPractice |  |  | closed |
 | 6 | ft_irc |  |  | closed |
 |   | webser |  |  | closed |
 | 7 | ft_transcendence |  |  | closed |
