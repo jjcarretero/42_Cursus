@@ -1,17 +1,17 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   mini_paint.h                                       :+:      :+:    :+:   */
+/*   micro_paint.h                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: jcarrete <jcarrete@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/12/08 16:58:08 by jcarrete          #+#    #+#             */
-/*   Updated: 2021/12/11 11:52:08 by jcarrete         ###   ########.fr       */
+/*   Created: 2021/12/11 13:56:38 by jcarrete          #+#    #+#             */
+/*   Updated: 2021/12/11 15:47:15 by jcarrete         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef MINI_PAINT_H
-# define MINI_PAINT_H
+#ifndef MICRO_PAINT_H
+# define MICRO_PAINT_H
 
 # include <stdlib.h>
 # include <stdio.h>
@@ -21,7 +21,7 @@
 # define ERROR			-1
 # define SUCCESS		0
 # define ZONE_INFO		3
-# define CIRCLE_INFO		5
+# define RECT_INFO		6
 # define MATRIX_INFO		3
 # define MIN_SIZE		1
 # define MAX_SIZE		300
@@ -41,12 +41,13 @@ typedef struct s_drawing
 	char		*matrix;
 }			t_drawing;
 
-typedef struct s_circle
+typedef struct s_rect
 {
 	char	type;
 	float	x;
 	float	y;
-	float	radius;
+	float	width;
+	float	height;
 	char	color;
-}			t_circle;
+}			t_rect;
 #endif
