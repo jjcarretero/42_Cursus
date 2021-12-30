@@ -1,43 +1,46 @@
-# pipex
+# So Long
 
-*Go dance salsa somewhere.*
+*And thanks for all the fish!*
 
-![125/100 score](./pipex_success.png)
+![125/100 score](./solong_success.png)
 
-This project aims to make you understand a bit deeper two concepts that you already know: the redirections and the pipes. It is an introduction project.
+This project is a very small 2D game. It is built to make you work with textures, sprites. And some very basic gameplay elements.
 
 ## Statement
 
-Your objective is to code the Pipex program.
+This project’s objectives are similar to all this first year’s objectives: Rigor, use of C, use of basic algorithms, information research etc.
 
-It should be executed in this way:
+As a graphic design project, so long will enable you to improve your skills in these areas: windows, colors, events, textures, etc.
 
-> $> ./pipex file1 cmd1 cmd2 file2
+You must use the miniLibX. Management of your window must remain smooth.
 
-Just in case: file1 and file2 are file names, cmd1 and cmd2 are shell commands with their parameters.
+Your program must take as a first argument a map description file with the .ber extension. 
 
-The execution of the pipex program should do the same as the next shell command:
+The 2D rectangular map will be constructed with 5 components player, map exits, walls, collectibles, and free space.
 
-> $> < file1 cmd1 | cmd2 > file2
+The player’s goal is to collect all collectibles present on the map then escape with minimal movement. Movements must be displayed. 
 
-#### For bonus:
+```
+This is a simple valid map:
 
-Handle multiple pipes :
+1111111111111
+10010000000C1
+1000011111001
+1P0011E000001
+1111111111111
+```
 
-> $> ./pipex file1 cmd1 cmd2 cmd3 ... cmdn file2
-
-Must be equivalent to :
-
-> < file1 cmd1 | cmd2 | cmd3 ... | cmdn > file2
+If any misconfiguration of any kind is encountered in the file, the program must exit properly and return "Error\n" followed by an explicit error message of your choice.
 
 
-Support « and » when the first parameter is "here_doc"
+### For bonus:
 
-> $> ./pipex here_doc LIMITER cmd cmd1 file
+Enemy patrols that cause the player to lose in case of contact.
 
-Must be equivalent to:
+There’s some sprite animation.
 
-> cmd << LIMITER | cmd1 >> file
+Movement count is directly displayed on the screen instead of shell output.
+
 
 ##
 
