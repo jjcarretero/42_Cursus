@@ -32,7 +32,8 @@ This is a simple valid map:
 
 If any misconfiguration of any kind is encountered in the file, the program must exit properly and return "Error\n" followed by an explicit error message of your choice.
 
-#### For bonus:
+
+### For bonus:
 
 Enemy patrols that cause the player to lose in case of contact.
 
