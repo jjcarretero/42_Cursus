@@ -20,8 +20,9 @@ The 2D rectangular map will be constructed with 5 components player, map exits, 
 
 The player’s goal is to collect all collectibles present on the map then escape with minimal movement. Movements must be displayed. 
 
-> This is a simple valid map:
-```c
+```
+This is a simple valid map:
+
 1111111111111
 10010000000C1
 1000011111001
