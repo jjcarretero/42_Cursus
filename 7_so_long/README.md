@@ -2,7 +2,7 @@
 
 *Go dance salsa somewhere.*
 
-![125/100 score](./pipex_success.png)
+![125/100 score](./solong_success.png)
 
 This project aims to make you understand a bit deeper two concepts that you already know: the redirections and the pipes. It is an introduction project.
 
