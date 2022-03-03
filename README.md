@@ -14,9 +14,9 @@
 | 3 | [__ft_server__](./4_ft_server) | Shell | `Docker`, `Nginx`, `MySQL`, `Web server` | 2020. 10. 16. |
 |   | [__push_swap__](./5_push_swap) | C | `Algorithm`, `Battery Concept`, `Handling Elements`, `Sorting` | 2021. 10. 14. |
 |   | [__pipex__](./6_pipex) | C | `Unix Logic`, `Forks`, `Pipes`, `Processes` | 2021. 11. 09. |
-|   | [__so_long__](./7_so_long) | C | `Graphics`, `Applicative`, `2D`, `Video game` | 2021. 12. 08.  |
-| 4 | Philosophers |  |  | Working on it |
-|   | minishell |  |  | Working on it |
+|   | [__so_long__](./7_so_long) | C | `Graphics`, `Applicative`, `2D`, `Video game` | 2021. 12. 08. |
+| 4 | [__philosophers__](./09_philosophers) | C | `Synchronization`, `Threads`, `Concurrent`, `Processes` | 2022. 03. 01. |
+|   | [__minishell__](./08_minishell) | C | `Unix Logic`, `CLI` ,`Bash`, `AST`, `I/O redirection` | 2022. 02. 05. |
 | 5 | CPP Module 00-08 |  |  | closed |
 |   | cub3d | C | `Raycasting`, `Graphics` | Working on it |
 |   | NetPractice |  |  | closed |

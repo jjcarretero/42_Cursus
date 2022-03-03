@@ -1,5 +1,7 @@
 # MiniShell
 
+**This is a project made with [Rpunet](https://github.com/rpunet). I thank him so much for his amazing work here**
+
 *As beautiful as a shell*
 
 ![125/100 score](./minishell_success.png)
