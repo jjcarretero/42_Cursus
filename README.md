@@ -14,7 +14,7 @@
 | 3 | [__ft_server__](./4_ft_server) | Shell | `Docker`, `Nginx`, `MySQL`, `Web server` | 2020. 10. 16. |
 |   | [__push_swap__](./5_push_swap) | C | `Algorithm`, `Battery Concept`, `Handling Elements`, `Sorting` | 2021. 10. 14. |
 |   | [__pipex__](./6_pipex) | C | `Unix Logic`, `Forks`, `Pipes`, `Processes` | 2021. 11. 09. |
-|   | [__so_long__](./7_so_long) | C | `Graphics`, `Applicative`, `2D`, `Video game` | Working on it  |
+|   | [__so_long__](./7_so_long) | C | `Graphics`, `Applicative`, `2D`, `Video game` | 2021. 12. 08.  |
 | 4 | Philosophers |  |  | Working on it |
 |   | minishell |  |  | Working on it |
 | 5 | CPP Module 00-08 |  |  | closed |
@@ -30,9 +30,9 @@
 | 1 |  |  |  |
 | 2 |  |  |  |
 | 3 | [__Exam Rank 02__](./99_exams/2_exam_rank_02) | `hashmap`, `static variable`, `variadic arguments` | 2020. 10. 02 |
-| 4 | Exam Rank 03 |  | - |
+| 4 | [__Exam Rank 03__](./99_exams/3_exam_rank_03) | `Unix Logic`, `Operation Files`, `Graphics`, `Applicative`  | 2021. 12. 30 |
 | 5 | Exam Rank 04 |  | - |
 | 6 | Exam Rank 05 |  | - |
 | 7 | Exam Rank 06 |  | - |
 
-*Box text design by [365kim](https://github.com/365kim)*
+*Box text original design by [365kim](https://github.com/365kim)*
