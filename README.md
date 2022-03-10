@@ -17,7 +17,7 @@
 |   | [__so_long__](./07_so_long) | C | `Graphics`, `Applicative`, `2D`, `Video game` | 2021. 12. 08. |
 | 4 | [__philosophers__](./09_philosophers) | C | `Synchronization`, `Threads`, `Concurrent`, `Processes` | 2022. 03. 01. |
 |   | [__minishell__](./08_minishell) | C | `Unix Logic`, `CLI` ,`Bash`, `AST`, `I/O redirection` | 2022. 02. 05. |
-| 5 | CPP Module 00-08 |  |  | closed |
+| 5 | CPP Module 00-08 | C++ |  | Working on it |
 |   | cub3d | C | `Raycasting`, `Graphics` | Working on it |
 |   | NetPractice |  |  | closed |
 | 6 | ft_irc |  |  | closed |
